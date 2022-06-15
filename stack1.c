@@ -69,7 +69,7 @@ void main()
 {
 	while(1)
 	{		
-		printf("\n1.PUSH\n2.POP\n3.FIND THE TOP VALUE\n4.DISPLAY\n5.EXIT");
+		printf("\n\n1.PUSH\n2.POP\n3.FIND THE TOP VALUE\n4.DISPLAY\n5.EXIT");
 		int ch;
 		printf("\nEnter your choice");
 		scanf("%d",&ch);
